@@ -1,0 +1,9 @@
+import { Feather } from '@expo/vector-icons';
+<Feather name="book" size={24} color="black" />
+
+import { Feather } from '@expo/vector-icons';
+<Feather name="book-open" size={24} color="black" />
+
+import { AntDesign } from '@expo/vector-icons';
+<AntDesign name="pdffile1" size={24} color="black" />
+
